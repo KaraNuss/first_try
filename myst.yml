@@ -5,7 +5,7 @@ project:
   description: Github Pages based template for hackathons
   # keywords: []
   authors:
-    - name: Instructor Name
+    - name: Kara Nuss, NEIU Biology
       orcid: XXXX-XXXX-XXXX-XXXX
       github: username
   github: https://github.com/hackthackathon/hackathon-template-github
